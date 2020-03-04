@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         btnabit = (Button) findViewById(R.id.btnabit);
-        btnpar = (Button) findViewById(R.id.btnpar);
+     //   btnpar = (Button) findViewById(R.id.btnpar);
         btnkol = (Button) findViewById(R.id.btnkol);
         btnabit.setOnClickListener(new View.OnClickListener() {
             @Override
