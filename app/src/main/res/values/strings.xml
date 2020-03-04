@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Abiturient</string>
+    <string name="voiti">Войти</string>
+    <string name="parent">Родитель</string>
+    <string name="kolledzh">Учебное учреждение</string>
+    <string name="changerole">Выберите роль</string>
+    <string name="pegistration">Зарегистрироваться</string>
+    <string name="link">Связаться с нами</string>
+    <string name="phone">Телефон</string>
+    <string name="password">Пароль</string>
+    <string name="picture">image</string>
+    <string name="SecondName">Фамилия</string>
+    <string name="Name">Имя</string>
+    <string name="ThirdName">Отчество</string>
+    <string name="doingtest">Пройти тест</string>
+    <string name="rolea">Абитуриент</string>
+    <string name="zparol">Забыли пароль</string>
+</resources>
